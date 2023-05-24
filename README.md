@@ -12,27 +12,22 @@
 </div>
 <br/>  
 
-
- 
-<table><tr><td valign="center" width="50%">
-
-- 👨‍🎓 I’m Computer Engineering Students  
-  
-
-- 💻 I'm currently developing myself on React.js  
-  
-
-- ❓ [Email](mailto:ayazyusuf7@icloud.com) me for your questions  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
+<table style="border-collapse: collapse;">
+  <tr>
+    <td style="border: none; width: 50%;">
+      <p>
+        - 👨‍🎓 I’m Computer Engineering Students
+        <br />
+        - 💻 I'm currently developing myself on React.js
+        <br />
+        - ❓ <a href="mailto:ayazyusuf7@icloud.com">Email</a> me for your questions
+      </p>
+    </td>
+    <td style="border: none; width: 50%;">
+      <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"  />
+    </td>
+  </tr>
+</table>
 
 <br/>  
 
@@ -53,15 +48,16 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<div align="center" style="width: 50%;">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yufus7&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=yufus7&show_icons=true&count_private=true&hide_border=true" align="center"  />
 
-</td><td valign="top" width="50%">
+</div>
+<div align="center" style="width: 50%;">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yufus7&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yufus7&hide_border=true&layout=compact" align="center"  />
 
-</td></tr></table>  
+</div> 
 
 <br/>  
 
