@@ -3,8 +3,9 @@
  </div>
  
 ## Portfolio  
-<div align="center">  
-<a href="/movieflix-clone" target="_blank">Movieflix Demo</a>  
+<div >  
+ 
+- <a href="/movieflix-clone" target="_blank" >Movieflix Demo</a>  
 
 </div>  
 
