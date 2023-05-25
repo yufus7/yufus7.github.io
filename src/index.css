@@ -57,6 +57,10 @@ body {
   cursor: pointer;
 }
 
+.button a {
+  color: white;
+}
+
 /*------------------------------Responsive------------------------------*/
 @media screen and (max-width: 480px) {
   .container {

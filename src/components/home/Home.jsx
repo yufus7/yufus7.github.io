@@ -18,6 +18,9 @@ function Home() {
           <AiFillInstagram className='social-media-icon' />
         </div>
         <button className='button'>Hakkımda</button>
+        <button className='button'>
+          <a href='/movieflix-clone'>movieflix</a>
+        </button>
       </div>
     </div>
   );

@@ -7,6 +7,7 @@
 
 .skills-content {
   display: flex;
+  flex-wrap: wrap;
   gap: 1rem;
 }
 
@@ -21,4 +22,20 @@
   font-size: 1rem;
   font-weight: bold;
   cursor: pointer;
+}
+
+/*------------------------------Responsive------------------------------*/
+@media screen and (max-width: 480px) {
+}
+
+@media screen and (max-width: 768px) {
+}
+
+@media screen and (max-width: 1024px) {
+}
+
+@media screen and (max-width: 1280px) {
+}
+
+@media screen and (max-width: 1440px) {
 }

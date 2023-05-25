@@ -11,9 +11,11 @@ function Skills() {
       <h1>Yeteneklerim</h1>
       <div className='skills-content'>
         {skillsData.map((skill) => (
-          <div className='skill-box'>
-            <AiOutlinePlus />
-            <h3>{skill}</h3>
+          <div>
+            <div className='skill-box'>
+              <AiOutlinePlus />
+              <h3>{skill}</h3>
+            </div>
           </div>
         ))}
       </div>
