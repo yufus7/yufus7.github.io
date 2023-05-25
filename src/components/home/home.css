@@ -1,0 +1,27 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  gap: 1rem;
+}
+
+.home-container h4 {
+  color: var(--color-secondary);
+}
+
+.home-profile-pic {
+  width: 10rem;
+}
+
+.home-social-media {
+  display: flex;
+  flex-direction: row;
+  gap: 0.5rem;
+}
+
+.social-media-icon {
+  font-size: 2rem;
+  cursor: pointer;
+}
